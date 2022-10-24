@@ -82,7 +82,7 @@ export class CommandLineInterface {
       name: 'buffer',
       alias: 'b',
       type: Number,
-      defaultValue: 64,
+      defaultValue: 1,
       typeLabel: '[underline]{Number}',
       description: 'Buffer value'
     }
